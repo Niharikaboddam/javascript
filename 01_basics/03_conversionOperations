@@ -1,5 +1,23 @@
- let score="23cc"
+let score="33"
+//console.log(typeof score)
+let scoreInNumber=Number(score)
+//console.log(typeof score)
+//console.log(typeof scoreInNumber)
 
- let numberScore=Number(score)
- console.log(score)
- console.log(typeof numberScore)
+let age= 18
+//console.log(typeof age)
+let ageInString=String(age)
+//console.log(typeof ageInString )
+
+/*  ______________________________operations_________________________________________*/
+console.log(2+2)
+console.log(2**3)
+let value=3;
+let negvalue=-value;
+console.log(value)
+console.log(negvalue)
+
+let string1="Niharika"
+let string2="Boddam"
+let string3=string1+string2
+console.log(string3)
