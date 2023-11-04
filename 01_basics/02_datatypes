@@ -1,0 +1,22 @@
+"use strict";//treat all js version as newer version
+//alert(3+3)//we are using nodejs not using browser
+console.log(3+3)
+//datatypes
+/*primitive datatypes
+number=> 2 power 53
+bigint
+boolean=>true/false
+string="niharika"
+null=>standalone value
+undefined=>undefined
+symbol=>unique*/
+
+console.log(typeof"niharika")
+let name="niharika"
+let age=18
+let present=true
+console.log(typeof name)//string
+console.log(typeof age)//number
+console.log(typeof present)//boolean
+console.log(typeof null)//object
+console.log(typeof undefined)//undefined
