@@ -1,0 +1,5 @@
+ let score="23cc"
+
+ let numberScore=Number(score)
+ console.log(score)
+ console.log(typeof numberScore)
